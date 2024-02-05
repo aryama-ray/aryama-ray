@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aryama Ray
-- 👀 I’m interested in exploring data and finding out hidden insights.I'm also interested in Risk analytics.
-- 🌱 I’m currently learning different clustering algorithms and its implementation using scikit-learn.
-- 💞️ I’m looking to collaborate on data analytics projects.
+- 👀 I'm currently pursuing an MS in Data Analytics at San Jose State University.
+- 🌱 I’m currently learning different Machine learning techniques. Also, I'm exploring and learning GAN, LLM, tinyML
+- 💞️ I’m looking to collaborate on data science projects.
 - 📫 mailto: ray.aryama@gmail.com
 
 - TechStack
