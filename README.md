@@ -24,5 +24,6 @@
 
 <!-- Profile Views -->
 
-<p align="left"> <![](https://komarev.com/ghpvc/?username=aryama-ray&color=green)>
+<!-- <p align="left"> <![](https://komarev.com/ghpvc/?username=aryama-ray&color=green)> -->
+ ![](https://komarev.com/ghpvc/?username=aryama-ray&label=PROFILE+VIEWS)
 </p>
