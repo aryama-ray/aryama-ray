@@ -7,6 +7,7 @@
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
+<!-- Skills -->
 #### TechStack
 
  - Languages
@@ -16,7 +17,8 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/> 
 
   - Visualization <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-  
+
+<!-- contact card--> 
 #### 📫 How to reach me:
   
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/aryamaray/)  &nbsp; <a href="mailto:ray.aryama@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
@@ -27,3 +29,12 @@
 <!-- <p align="left"> <![](https://komarev.com/ghpvc/?username=aryama-ray&color=green)> -->
  ![](https://komarev.com/ghpvc/?username=aryama-ray&label=PROFILE+VIEWS)
 </p>
+
+<!-- GitHub section -->
+
+ ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+ 
+ <div>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryama-ray"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryama-ray&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" height="192px"  width="500px"/>
+</div>
