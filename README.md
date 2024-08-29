@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on data science projects.
 - 📫 mailto: ray.aryama@gmail.com / aryama.ray@sjsu.edu
 
+<!-- code gif-->
+<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+
 #### TechStack
 
  - Languages
@@ -17,3 +20,9 @@
 #### 📫 How to reach me:
   
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/aryamaray/)  &nbsp; <a href="mailto:ray.aryama@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
+
+<!-- Profile Views -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
