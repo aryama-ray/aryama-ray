@@ -17,6 +17,8 @@
   
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
 
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=or-the-badge&logo=amazon-aws) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=or-the-badge&logo=google-cloud)
+
 <!-- contact card--> 
 ## 📫 How to reach me:
   
