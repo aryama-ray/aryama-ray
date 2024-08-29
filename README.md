@@ -1,8 +1,8 @@
-👋 Hi, I’m Aryama Ray
-👀 I'm currently pursuing an MS in Data Analytics at San Jose State University.
-🌱 I’m currently learning different Machine learning algorithms. Also, I'm exploring and learning LLM, RAG and Gen-AI
-💞️ I’m looking to collaborate on data science projects.
-📫 mailto: ray.aryama@gmail.com / aryama.ray@sjsu.edu
+- 👋 Hi, I’m Aryama Ray
+- 👀 I'm currently pursuing an MS in Data Analytics at San Jose State University.
+- 🌱 I’m currently learning different Machine learning algorithms. Also, I'm exploring and learning LLM, RAG and Gen-AI
+- 💞️ I’m looking to collaborate on data science projects.
+- 📫 mailto: ray.aryama@gmail.com / aryama.ray@sjsu.edu
 
 TechStack
 
