@@ -3,7 +3,9 @@
  <!-- code gif-->
 
 <img align="right" alt="GIF" src="./code.gif" width="450" height="250" />
-  🎯 **Engineer turned Data Scientist**  with 8 years of industry experience in software development & QA, now equipped with an M.S. in Applied Data Science from San Jose State University.  
+
+🎯 **Engineer turned Data Scientist**  with 8 years of industry experience in software development & QA, now equipped with an M.S. in Applied Data Science from San Jose State University.  
+
 📊 I build scalable data solutions and translate complex data into meaningful, actionable insights that drive business decisions.
 
 ### 🧠 My Story
