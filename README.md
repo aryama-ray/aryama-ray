@@ -36,7 +36,7 @@ Whether it's optimizing Airbnb pricing with clustering, decoding chronic disease
 | **[🤟 Real-Time ASL Interpreter](https://github.com/aryama-ray/Real-Time-American-Sign-Language-Interpreter-using-Transformer-and-LLM/blob/main/README.md)** | Built a Transformer-based interpreter using MediaPipe landmarks for sign recognition. |
 | **[🎨 Comic Generator using LLM + SDXL](https://github.com/aryama-ray/yarn-comic-SDXL-DreamboothLora)** | AI-powered multi-panel comic creator using LLM prompt engineering and fine-tuned Stable Diffusion. |
 
-➡️ Explore more of my work in the pinned repositories and project folders!
+## ➡️ Explore more of my work in the pinned repositories and project folders!
 
 ### 📈 What Sets Me Apart
 
