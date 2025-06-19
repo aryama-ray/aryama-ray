@@ -54,7 +54,9 @@ Whether it's optimizing Airbnb pricing with clustering, decoding chronic disease
 <!-- Profile Views -->
 
 <!-- <p align="left"> <![](https://komarev.com/ghpvc/?username=aryama-ray&color=green)> -->
+
  ![](https://komarev.com/ghpvc/?username=aryama-ray&label=PROFILE+VIEWS)
+
 </p>
 
 > _“Data is the new oil, but insight is the spark. I’m here to strike it.”_
@@ -67,5 +69,5 @@ Thanks for visiting my GitHub!
  
  <div>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aryama-ray"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryama-ray&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" height="192px"  width="500px"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryama-ray&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" height="192px"  width="500px"/>
 </div>
