@@ -69,5 +69,5 @@ Thanks for visiting my GitHub!
  
  <div>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aryama-ray"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryama-ray&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" height="192px"  width="500px"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryama-ray&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" height="192px"  width="500px"/>
 </div>
