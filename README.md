@@ -31,7 +31,7 @@ Whether it's optimizing Airbnb pricing with clustering, decoding chronic disease
 ### 📌 Featured Projects
 | 🏷️ Project | 🔍 Description |
 |-----------|----------------|
-| **[🏡 Airbnb Market Analysis](https://github.com/aryama-ray/airbnb-market-analysis)** | Clustering-based segmentation of 70K+ listings; built a recommendation engine using Streamlit. |
+| **[🏡 Airbnb Market Analysis](https://github.com/aryama-ray/Airbnb-Rental-Market-Analysis)** | Clustering-based segmentation of 70K+ listings; built a recommendation engine using Streamlit. |
 | **[💊 Chronic Disease Medical Expense Analysis](https://github.com/aryama-ray/healthcare-cost-analysis)** | Identified key cost drivers across 75K+ MEPS records using Power BI and statistical modeling. |
 | **[🤟 Real-Time ASL Interpreter](https://github.com/aryama-ray/sign-language-interpreter)** | Built a Transformer-based interpreter using MediaPipe landmarks for sign recognition. |
 | **[🎨 Comic Generator using LLM + SDXL](https://github.com/aryama-ray/comicgen-ai)** | AI-powered multi-panel comic creator using LLM prompt engineering and fine-tuned Stable Diffusion. |
