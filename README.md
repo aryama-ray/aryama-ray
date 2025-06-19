@@ -1,8 +1,10 @@
 ## 👋 Hi, I'm Aryama Ray 
-### Data Analyst | Data Scientist | Builder of Insightful Solutions
- <!-- code gif-->
+<!-- code gif-->
 
-<img align="right" alt="GIF" src="./code.gif" width="450" height="250" />
+<img align="right" alt="GIF" src="./code.gif" width="350" height="250" />
+
+### Data Analyst | Data Scientist | Builder of Insightful Solutions
+---
 
 🎯 **Engineer turned Data Scientist**  with 8 years of industry experience in software development & QA, now equipped with an M.S. in Applied Data Science from San Jose State University.  
 
