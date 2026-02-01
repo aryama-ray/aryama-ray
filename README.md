@@ -32,12 +32,12 @@ Whether it's optimizing Airbnb pricing with clustering, decoding chronic disease
 ### 📌 Featured Projects
 | 🏷️ Project | 🔍 Description |
 |-----------|----------------|
+| **[🧘‍♂️ ErgoFlow - AI Ergonomics Coach](https://github.com/aryama-ray/Ergo-Flow)** | Real-time workspace wellness monitoring using Gemini Vision AI—analyzes dual webcam/screen captures to detect posture degradation, stress patterns, and work context. Features: Spine-o-Meter gauge, time-series analytics, conversational AI coach. [🚀 Live Demo](https://ai.studio/apps/drive/1NAPlYWMDM1pO4kBNc2XRoUhGsb8UHKPX) |
 | **[🎉 Plan-a-Party Agentic Party Planner](https://github.com/aryama-ray/Plan-A-Party-Agentic-Party-Planner)** | AI-powered conversational assistant orchestrating multiple specialized agents for end-to-end party planning—from theme generation to venue discovery to automated invitations. |
 | **[🏡 Airbnb Market Analysis](https://github.com/aryama-ray/Airbnb-Rental-Market-Analysis)** | Clustering-based segmentation of 70K+ listings; built a recommendation engine using Streamlit. |
 | **[💊 Chronic Disease Medical Expense Analysis](https://github.com/aryama-ray/Medical-Expense-Analysis-for-Chronic-Diseases-in-the-Southern-US)** | Identified key cost drivers across 75K+ MEPS records using Power BI and statistical modeling. |
 | **[🤟 Real-Time ASL Interpreter](https://github.com/aryama-ray/Real-Time-American-Sign-Language-Interpreter-using-Transformer-and-LLM/blob/main/README.md)** | Built a Transformer-based interpreter using MediaPipe landmarks for sign recognition. |
 | **[🎨 Comic Generator using LLM + SDXL](https://github.com/aryama-ray/yarn-comic-SDXL-DreamboothLora)** | AI-powered multi-panel comic creator using LLM prompt engineering and fine-tuned Stable Diffusion. |
-
 ## ➡️ Explore more of my work in the pinned repositories and project folders!
 
 ### 📈 What Sets Me Apart
