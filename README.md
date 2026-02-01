@@ -32,6 +32,7 @@ Whether it's optimizing Airbnb pricing with clustering, decoding chronic disease
 ### 📌 Featured Projects
 | 🏷️ Project | 🔍 Description |
 |-----------|----------------|
+| **[🎉 Plan-a-Party AI Agent](https://github.com/aryama-ray/plan-a-party)** | AI-powered conversational assistant orchestrating multiple specialized agents for end-to-end party planning—from theme generation to venue discovery to automated invitations. |
 | **[🏡 Airbnb Market Analysis](https://github.com/aryama-ray/Airbnb-Rental-Market-Analysis)** | Clustering-based segmentation of 70K+ listings; built a recommendation engine using Streamlit. |
 | **[💊 Chronic Disease Medical Expense Analysis](https://github.com/aryama-ray/Medical-Expense-Analysis-for-Chronic-Diseases-in-the-Southern-US)** | Identified key cost drivers across 75K+ MEPS records using Power BI and statistical modeling. |
 | **[🤟 Real-Time ASL Interpreter](https://github.com/aryama-ray/Real-Time-American-Sign-Language-Interpreter-using-Transformer-and-LLM/blob/main/README.md)** | Built a Transformer-based interpreter using MediaPipe landmarks for sign recognition. |
